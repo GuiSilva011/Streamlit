@@ -13,3 +13,4 @@ st.subheader('Introducing Streamlit in Automate Everything with Python')
 st.write('This is our first web app')
 
 st.write(df)
+st.line_chart(df)
